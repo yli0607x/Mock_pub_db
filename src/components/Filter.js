@@ -1,0 +1,22 @@
+import React, { Component } from 'react';
+import '../App.css';
+
+class Filter extends Component {
+  render() {
+    return (
+      <div style={{margin: "auto", width: "450px"}}>
+        <input 
+          type="text"
+          placeholder="search by name and/or breed"
+          style={{width: "250px"}}
+        />
+        Good boiz only
+        <input 
+          type="checkbox"
+        />
+      </div>
+    )
+  }
+}
+
+export default Filter;
