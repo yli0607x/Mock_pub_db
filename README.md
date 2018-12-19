@@ -23,4 +23,4 @@ Familiarize yourself with the attributes for each pup. Try going to `/pups/:id` 
 8. Add a sort by alphabetical
 9. Toggle all dogs to good or bad
 10. Toggle puppy details to be hidden or displayed
-# Mock_pub_db
+
