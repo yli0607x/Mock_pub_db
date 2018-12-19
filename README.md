@@ -22,9 +22,4 @@ Familiarize yourself with the attributes for each pup. Try going to `/pups/:id` 
 7. Edit/Delete a particular pup to the backend server (live update the name shown in the display details 4 funz)
 8. Add a sort by alphabetical
 9. Toggle all dogs to good or bad
-<<<<<<< HEAD
 10. Toggle puppy details to be hidden or displayed
-=======
-10. Toggle puppy details to be hidden or displayed
-
->>>>>>> f121fa6bff55bb669688f4acd82e9f6d48df40b5
