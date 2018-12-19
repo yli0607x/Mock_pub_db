@@ -6,6 +6,8 @@ class Filter extends Component {
     return (
       <div style={{margin: "auto", width: "450px"}}>
         <input 
+          onChange={this.props.handleChange}
+          value={this.props.term}
           type="text"
           placeholder="search by name and/or breed"
           style={{width: "250px"}}
@@ -13,6 +15,7 @@ class Filter extends Component {
         Good boiz only
         <input 
           type="checkbox"
+          onChange={this.props.handleTypeChange}
         />
       </div>
     )
